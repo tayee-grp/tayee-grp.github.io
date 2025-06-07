@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="179"
+   height="40"
+   viewBox="0 0 47.360417 10.583333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="tayee.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.743293"
+     inkscape:cx="58.141802"
+     inkscape:cy="38.45743"
+     inkscape:window-width="3008"
+     inkscape:window-height="1692"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-weight:bold;font-size:14.1111px;line-height:0px;font-family:'.SF Hebrew Rounded';-inkscape-font-specification:'.SF Hebrew Rounded Bold';letter-spacing:-0.785812px;word-spacing:0px;fill:#ff6a00;stroke-width:0.764359;stroke-dashoffset:16.2437"
+       d="M 9.3387427,2.0470112 H 6.0339365 V 10.583333 H 3.3048062 V 2.0470112 H 0 V -2.2398308e-7 H 9.3387427 Z M 19.949317,10.583333 H 17.127794 L 16.395762,8.443922 h -3.923125 l -0.732033,2.139411 H 8.9901526 L 12.899064,-2.2398308e-7 h 3.141343 z M 15.7348,6.5035257 14.434198,2.7080253 13.133598,6.5035257 Z M 29.970001,-2.2398308e-7 26.068198,6.4893104 V 10.583333 H 23.339067 V 6.6172486 L 19.373299,-2.2398308e-7 h 3.0987 L 24.760488,4.0940227 26.970801,-2.2398308e-7 Z M 38.228121,10.583333 H 30.573764 V -2.2398308e-7 h 7.654357 V 2.0470112 H 33.28868 v 1.8266735 h 4.584087 V 5.9206961 H 33.28868 v 2.6156257 h 4.939441 z m 9.132296,0 H 39.70606 V -2.2398308e-7 h 7.654357 V 2.0470112 h -4.939441 v 1.8266735 h 4.584086 v 2.0470114 h -4.584086 v 2.6156257 h 4.939441 z"
+       id="text1"
+       aria-label="TAYEE" />
+  </g>
+</svg>
